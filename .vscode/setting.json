@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "../../../../../a0000/Desktop/PWA/PWA js/https/localhost.pem",
+      "key": "../../../../../a0000/Desktop/PWA/PWA js/https/localhost.key",
+      "passphrase": "2048"
+}
